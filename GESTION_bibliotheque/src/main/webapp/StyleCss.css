@@ -1,0 +1,40 @@
+
+body{
+	  background-image: url("neige.png");
+}
+#inputMcl{
+	width: 280px;
+}
+#TitId{
+	font-family:'Times New Roman', Times, serif ;
+}
+#TbId{
+	font-size: 17px;
+}
+#footer {
+   position:absolute;
+   bottom:0;  /* on le colle en bas */
+   width:100%;
+   height:100px;   /* Hauteur du pied de page */
+}
+#EspacId{
+	height: 310px;
+}
+#titel{
+    font-size: xx-large;
+    text-align:center ; 
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-shadow: 50px; 
+}
+#ImagIdR{
+	height: 90px;
+	width: 210px;
+}
+#ImagIdL{
+	height: 110px;
+	width: 130px;
+	margin-top: 5px;
+}
+.card{
+	background-color: transparent;
+}
